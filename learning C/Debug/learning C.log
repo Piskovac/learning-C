@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\acer\source\repos\learning C\learning C\main.c(160,7): warning C4129: 's': unrecognized character escape sequence
+C:\Users\acer\source\repos\learning C\learning C\main.c(245,7): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\acer\source\repos\learning C\learning C\main.c(64,1): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'int (__cdecl *)(int,int)'
+C:\Users\acer\source\repos\learning C\learning C\main.c(130,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'const char (*)[23]'
+C:\Users\acer\source\repos\learning C\learning C\main.c(155,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\acer\source\repos\learning C\learning C\main.c(149,7): warning C4101: 'senten': unreferenced local variable
+C:\Users\acer\source\repos\learning C\learning C\main.c(247,8): warning C4101: 'stptr': unreferenced local variable
+C:\Users\acer\source\repos\learning C\learning C\main.c(246,7): warning C4101: 'st': unreferenced local variable
+  learning C.vcxproj -> C:\Users\acer\source\repos\learning C\Debug\learning C.exe
